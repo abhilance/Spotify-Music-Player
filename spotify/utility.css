@@ -1,0 +1,34 @@
+
+
+
+.alling-item{
+    align-items: center;
+
+}
+.flex{
+    display:flex;
+}
+.justifycotent{
+    justify-content: center;
+
+}
+.p1{
+    padding: 10px;
+}
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #333; /* Dark grey track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #555; /* Medium grey thumb */
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #777; /* Lighter grey on hover */
+}

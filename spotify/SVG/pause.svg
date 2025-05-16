@@ -1,0 +1,8 @@
+<svg width="28" height="28" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Solid White Circle -->
+  <circle cx="50" cy="50" r="40" fill="white" stroke="0" stroke-width="0"/>
+  
+  <!-- Pause Button (Two Rectangles) -->
+  <rect x="38" y="30" width="10" height="40" fill="black"/>
+  <rect x="52" y="30" width="10" height="40" fill="black"/>
+</svg>
